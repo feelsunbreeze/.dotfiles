@@ -1,2 +1,2 @@
-# .dotfiles
-Configuration Files for my Arch Linux Setup
+# Sunbreeze: The Dot Files
+Config
