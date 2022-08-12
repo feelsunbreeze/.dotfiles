@@ -28,6 +28,7 @@
 - **ALT+SHIFT+C** to minimize.
 - **ALT+SHIFT+X** to close.
 - **Super+T** for terminal.
+- **Super+E** for explorer.
 - **Super+B** to hide titlebar.
 - **Super+K** for KDE Connect.
 - **Super+;** for Emoji Selector.
