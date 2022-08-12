@@ -23,6 +23,7 @@
 - To view images, I use [**Feh**](https://feh.finalrewind.org/) and [**gThumb**](https://wiki.gnome.org/Apps/Gthumb).
 - My music player is [**Spotify**](https://spotify.com) with the [*spicetify*](https://spicetify.app/) addon.
 - My messenger app is [**Discord**](https://discord.com) with the [*betterdiscord*](https://betterdiscord.app/) addon.
+- Fun tools include cowsay, pipes.sh, cmatrix, cbonsai, spotify-tui.
 ### Shortcuts
 - **ALT+TAB** for switching tabs.
 - **ALT+SHIFT+C** to minimize.
