@@ -36,6 +36,7 @@
 ## Config
 All of the folders go in `~/.config/`. (With exception of ohmyzsh folder)  
 Place the `.zshrc` at `~/` and the theme file in `~/.oh-my-zsh/themes/`.  
+The neofetch ASCII art must be replaced in the neofetch file.
 ## Screenshots
 ![alacritty](/screenshots/alacritty.png)
 ![neofetch](/screenshots/neofetch.png)
