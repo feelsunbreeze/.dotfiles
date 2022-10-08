@@ -23,6 +23,7 @@
 - To view images, I use [**Feh**](https://feh.finalrewind.org/) and [**gThumb**](https://wiki.gnome.org/Apps/Gthumb).
 - My music player is [**Spotify**](https://spotify.com) with the [*spicetify*](https://spicetify.app/) addon.
 - My messenger app is [**Discord**](https://discord.com) with the [*betterdiscord*](https://betterdiscord.app/) addon.
+- The task manager that I use is [**bpytop**](https://archlinux.org/packages/community/any/bpytop/).
 - Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**spotify-tui**](https://github.com/Rigellute/spotify-tui), [**hollywood**](https://aur.archlinux.org/packages/hollywood).
 ### Shortcuts
 - **ALT+TAB** for switching tabs.
