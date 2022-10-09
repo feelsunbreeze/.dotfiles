@@ -37,9 +37,9 @@
 - **Super+;** for Emoji Selector.
 - **PrtScr** for Flameshot.
 ## Config
-All of the folders go in `~/.config/`. (With exception of ohmyzsh folder)
-Place the `.zshrc` at `~/` and the theme file in `~/.oh-my-zsh/themes/`.
-The Qt style `.xml` file can be loaded from anywhere but the recommended location is `~/.config/QtProject/qtcreator/styles/`.
+All of the folders go in `~/.config/`. (With exception of ohmyzsh folder)  
+Place the `.zshrc` at `~/` and the theme file in `~/.oh-my-zsh/themes/`.  
+The Qt style `.xml` file can be loaded from anywhere but the recommended location is `~/.config/QtProject/qtcreator/styles/`.  
 The neofetch ASCII art must be replaced in the neofetch file.
 ## Screenshots
 ![alacritty](/screenshots/alacritty.png)
