@@ -26,13 +26,13 @@
 - The task manager that I use is [**bpytop**](https://archlinux.org/packages/community/any/bpytop/).
 - Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**spotify-tui**](https://github.com/Rigellute/spotify-tui), [**hollywood**](https://aur.archlinux.org/packages/hollywood).
 ### Shortcuts
-- **ALT+TAB** for switching tabs.
-- **ALT+SHIFT+Z** to maximize.
-- **ALT+SHIFT+X** to close.
-- **ALT+SHIFT+C** to minimize.
-- **Super+T** for terminal.
-- **Super+E** for explorer.
-- **Super+B** to hide titlebar.
+- **ALT+TAB** for Switching Tabs.
+- **ALT+SHIFT+Z** to Maximize.
+- **ALT+SHIFT+X** to Close.
+- **ALT+SHIFT+C** to Minimize.
+- **Super+T** for Terminal.
+- **Super+E** for Explorer.
+- **Super+B** to hide Titlebar.
 - **Super+K** for KDE Connect.
 - **Super+;** for Emoji Selector.
 - **PrtScr** for Flameshot.
