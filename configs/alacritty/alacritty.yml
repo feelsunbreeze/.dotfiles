@@ -17,7 +17,7 @@ cursor:
     blink_interval: 500
     unfocused_hollow: true
     thickness: 0.15
-# Theme
+# Theme Nord Alacritty by arcticiceicestudio
 colors:
   primary:
     background: '#2e3440'
@@ -36,7 +36,7 @@ colors:
     matches:
       foreground: CellBackground
       background: '#88c0d0'
-    bar:
+    colors.footer_bar:
       background: '#434c5e'
       foreground: '#d8dee9'
   normal:
