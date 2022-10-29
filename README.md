@@ -13,7 +13,7 @@
 
 ## Rice
 
-![Desktop](/screenshots/Catppuccin/desktop.png)
+![Desktop](/Catppuccin/screenshots/desktop.png)
 
 ## Info
 
@@ -59,11 +59,11 @@ The neofetch ASCII art must be replaced in the neofetch file.
 
 ## Screenshots
 
-![alacritty](/screenshots/Catppuccin/screenshots/alacritty.png)
-![neofetch](/screenshots/Catppuccin/screenshots/neofetch.png)
-![rofi](/screenshots/Catppuccin/screenshots/rofi.png)
-![vscode](/screenshots/Catppuccin/screenshots/vscode.png)
-![nvim](/screenshots/Catppuccin/screenshots/nvim.png)
-![spotify](/screenshots/Catppuccin/screenshots/spotify.png)
-![cava](/screenshots/Catppuccin/screenshots/cava.png)
-![notion](/screenshots/Catppuccin/screenshots/notion.png)
+![alacritty](/Catppuccin/screenshots/alacritty.png)
+![neofetch](/Catppuccin/screenshots/neofetch.png)
+![rofi](/Catppuccin/screenshots/rofi.png)
+![vscode](/Catppuccin/screenshots/vscode.png)
+![nvim](/Catppuccin/screenshots/nvim.png)
+![spotify](/Catppuccin/screenshots/spotify.png)
+![cava](/Catppuccin/screenshots/cava.png)
+![notion](/Catppuccin/screenshots/notion.png)
