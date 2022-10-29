@@ -1,29 +1,18 @@
 # <p align = "center">Sunbreeze: The Dot Files</p>
-
 ## Contents
-
-- [<p align = "center">Sunbreeze: The Dot Files</p>](#sunbreeze-the-dot-files)
-  - [Contents](#contents)
-  - [Rice](#rice)
-  - [Info](#info)
-    - [Programs](#programs)
-    - [Shortcuts](#shortcuts)
-  - [Config](#config)
-  - [Screenshots](#screenshots)
-
+- [Rice](#rice)
+- [Info](#info)
+- [Config](#config)
+- [Screenshots](#screenshots)
 ## Rice
-
-![Desktop](/screenshots/Catppuccin/desktop.png)
-
+![Desktop](/screenshots/desktop.png)
 ## Info
-
 ### Programs
-
-- [**Catppuccin**](https://github.com/catppuccin/catppuccin) color scheme.
+- [**Nord**](https://www.nordtheme.com/) color scheme.
 - With the [**KDE Plasma**](https://kde.org/plasma-desktop/) desktop.
 - I use [**Arch**](https://archlinux.org/) btw.
 - Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
-- The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.
+- The shell is [**Zsh**](https://ohmyz.sh/) with [*ohmyzsh*](https://ohmyz.sh/) addon.
 - I use [**VScode**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
 - I use [**Rofi**](https://github.com/davatorium/rofi) as my application launcher.
 - My Font is [**Cascadia Code**](https://github.com/microsoft/cascadia-code).
@@ -32,13 +21,11 @@
 - For screenshots, I use [**Flameshot**](https://flameshot.org/).
 - I use [**Notion Enhanced**](https://github.com/notion-enhancer/desktop) for note-taking.
 - To view images, I use [**Feh**](https://feh.finalrewind.org/) and [**gThumb**](https://wiki.gnome.org/Apps/Gthumb).
-- My music player is [**Spotify**](https://spotify.com) with the [_spicetify_](https://spicetify.app/) addon.
-- My messenger app is [**Discord**](https://discord.com) with the [_betterdiscord_](https://betterdiscord.app/) addon.
+- My music player is [**Spotify**](https://spotify.com) with the [*spicetify*](https://spicetify.app/) addon.
+- My messenger app is [**Discord**](https://discord.com) with the [*betterdiscord*](https://betterdiscord.app/) addon.
 - The task manager that I use is [**bpytop**](https://archlinux.org/packages/community/any/bpytop/).
-- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**hollywood**](https://aur.archlinux.org/packages/hollywood).
-
+- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**spotify-tui**](https://github.com/Rigellute/spotify-tui), [**hollywood**](https://aur.archlinux.org/packages/hollywood).
 ### Shortcuts
-
 - **ALT+TAB** for Switching Tabs.
 - **ALT+SHIFT+Z** to Maximize.
 - **ALT+SHIFT+X** to Close.
@@ -49,21 +36,17 @@
 - **Super+K** for KDE Connect.
 - **Super+;** for Emoji Selector.
 - **PrtScr** for Flameshot.
-
 ## Config
-
 All of the folders go in `~/.config/`. (With exception of ohmyzsh folder)  
 Place the `.zshrc` at `~/` and the theme file in `~/.oh-my-zsh/themes/`.  
 The Qt style `.xml` file can be loaded from anywhere but the recommended location is `~/.config/QtProject/qtcreator/styles/`.  
 The neofetch ASCII art must be replaced in the neofetch file.
-
 ## Screenshots
-
-![alacritty](/screenshots/Catppuccin/alacritty.png)
-![neofetch](/screenshots/Catppuccin/neofetch.png)
-![rofi](/screenshots/Catppuccin/rofi.png)
-![vscode](/screenshots/Catppuccin/vscode.png)
-![nvim](/screenshots/Catppuccin/nvim.png)
-![spotify](/screenshots/Catppuccin/spotify.png)
-![cava](/screenshots/Catppuccin/cava.png)
-![notion](/screenshots/Catppuccin/notion.png)
+![alacritty](/screenshots/alacritty.png)
+![neofetch](/screenshots/neofetch.png)
+![rofi](/screenshots/rofi.png)
+![vscode](/screenshots/vscode.png)
+![nvim](/screenshots/nvim.png)
+![spotify](/screenshots/spotify.png)
+![cava](/screenshots/cava.png)
+![notion](/screenshots/notion.png)
