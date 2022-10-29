@@ -24,7 +24,7 @@
 - I use [**Arch**](https://archlinux.org/) btw.
 - Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
 - The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.
-- I use [**VScode**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
+- I use [**VSCode**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
 - I use [**Rofi**](https://github.com/davatorium/rofi) as my application launcher.
 - My Font is [**Cascadia Code**](https://github.com/microsoft/cascadia-code).
 - My File Explorers are [**Dolphin**](https://apps.kde.org/dolphin/) and [**Ranger**](https://ranger.github.io/).
