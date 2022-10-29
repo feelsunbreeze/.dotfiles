@@ -59,11 +59,11 @@ The neofetch ASCII art must be replaced in the neofetch file.
 
 ## Screenshots
 
-![alacritty](/screenshots/Catppuccin/alacritty.png)
-![neofetch](/screenshots/Catppuccin/neofetch.png)
-![rofi](/screenshots/Catppuccin/rofi.png)
-![vscode](/screenshots/Catppuccin/vscode.png)
-![nvim](/screenshots/Catppuccin/nvim.png)
-![spotify](/screenshots/Catppuccin/spotify.png)
-![cava](/screenshots/Catppuccin/cava.png)
-![notion](/screenshots/Catppuccin/notion.png)
+![alacritty](/screenshots/Catppuccin/screenshots/alacritty.png)
+![neofetch](/screenshots/Catppuccin/screenshots/neofetch.png)
+![rofi](/screenshots/Catppuccin/screenshots/rofi.png)
+![vscode](/screenshots/Catppuccin/screenshots/vscode.png)
+![nvim](/screenshots/Catppuccin/screenshots/nvim.png)
+![spotify](/screenshots/Catppuccin/screenshots/spotify.png)
+![cava](/screenshots/Catppuccin/screenshots/cava.png)
+![notion](/screenshots/Catppuccin/screenshots/notion.png)
