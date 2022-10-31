@@ -1,8 +1,29 @@
 {
     "custom-styles": {
+        "Doxygen": {
+            "Entities": {
+                "selected-text-color": "#f5c2e7",
+                "text-color": "#f5c2e7"
+            }
+        },
         "ISO C++": {
             "Comment": {
                 "text-color": "#6c7086"
+            },
+            "Raw String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "Standard Classes": {
+                "selected-text-color": "#f4f4f4",
+                "text-color": "#f4f4f4"
+            },
+            "String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "String Char": {
+                "text-color": "#f5c2e7"
             }
         }
     },
