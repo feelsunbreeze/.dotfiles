@@ -23,11 +23,13 @@
 - With the [**KDE Plasma**](https://kde.org/plasma-desktop/) desktop.
 - I use [**Arch**](https://archlinux.org/) btw.
 - Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
-- The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.
+- The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.  
+- The IDEs I use include [CLion](https://www.jetbrains.com/clion/) and [Pycharm](https://www.jetbrains.com/pycharm/).
 - I use [**VSCode**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
+- For Databases, I use [MariaDB](https://archlinux.org/packages/extra/x86_64/mariadb/) and use [DBeaver](https://archlinux.org/packages/community/x86_64/dbeaver/) and [DataGrip](https://www.jetbrains.com/datagrip/) as an IDE.
 - I use [**Rofi**](https://github.com/davatorium/rofi) as my application launcher.
-- My Font is [**Cascadia Code**](https://github.com/microsoft/cascadia-code).
-- My File Explorers are [**Dolphin**](https://apps.kde.org/dolphin/) and [**Ranger**](https://ranger.github.io/).
+- My Font is [**Cascadia Code**](https://github.com/microsoft/cascadia-code) and [**Jetbrains Nerd Font**](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf).
+- My File Explorers are [**Dolphin**](https://apps.kde.org/dolphin/).
 - The Audio Visualizer is [**CAVA**](https://github.com/karlstav/cava).
 - For screenshots, I use [**Flameshot**](https://flameshot.org/).
 - I use [**Notion Enhanced**](https://github.com/notion-enhancer/desktop) for note-taking.
@@ -35,7 +37,7 @@
 - My music player is [**Spotify**](https://spotify.com) with the [_spicetify_](https://spicetify.app/) addon.
 - My messenger app is [**Discord**](https://discord.com) with the [_betterdiscord_](https://betterdiscord.app/) addon.
 - The task manager that I use is [**bpytop**](https://archlinux.org/packages/community/any/bpytop/).
-- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**hollywood**](https://aur.archlinux.org/packages/hollywood).
+- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/).
 
 ### Shortcuts
 
