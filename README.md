@@ -24,9 +24,9 @@
 - I use [**Arch**](https://archlinux.org/) btw.
 - Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
 - The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.  
-- The IDEs I use include [CLion](https://www.jetbrains.com/clion/) and [Pycharm](https://www.jetbrains.com/pycharm/).
-- I use [**VSCode**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
-- For Databases, I use [MariaDB](https://archlinux.org/packages/extra/x86_64/mariadb/) and use [DBeaver](https://archlinux.org/packages/community/x86_64/dbeaver/) and [DataGrip](https://www.jetbrains.com/datagrip/) as an IDE.
+- The IDEs I use include [**CLion**](https://www.jetbrains.com/clion/) and [**Pycharm**](https://www.jetbrains.com/pycharm/).
+- I use [**VSC**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
+- For Databases, I use [**MariaDB**](https://archlinux.org/packages/extra/x86_64/mariadb/) and use [**DBeaver**](https://archlinux.org/packages/community/x86_64/dbeaver/) and [**DataGrip**](https://www.jetbrains.com/datagrip/) as an IDE.
 - I use [**Rofi**](https://github.com/davatorium/rofi) as my application launcher.
 - My Font is [**Cascadia Code**](https://github.com/microsoft/cascadia-code) and [**Jetbrains Nerd Font**](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf).
 - My File Explorers are [**Dolphin**](https://apps.kde.org/dolphin/).
