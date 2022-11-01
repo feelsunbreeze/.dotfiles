@@ -33,7 +33,8 @@
 - The Audio Visualizer is [**CAVA**](https://github.com/karlstav/cava).
 - For screenshots, I use [**Flameshot**](https://flameshot.org/).
 - I use [**Notion Enhanced**](https://github.com/notion-enhancer/desktop) for note-taking.
-- To view images, I use [**Feh**](https://feh.finalrewind.org/) and [**gThumb**](https://wiki.gnome.org/Apps/Gthumb).
+- To view images, I use [**Feh**](https://feh.finalrewind.org/) and [**gThumb**](https://wiki.gnome.org/Apps/Gthumb).  
+- For PDF documents, I use [**Zathura**](https://pwmt.org/projects/zathura/).  
 - My music player is [**Spotify**](https://spotify.com) with the [_spicetify_](https://spicetify.app/) addon.
 - My messenger app is [**Discord**](https://discord.com) with the [_betterdiscord_](https://betterdiscord.app/) addon.
 - The task manager that I use is [**bpytop**](https://archlinux.org/packages/community/any/bpytop/).
