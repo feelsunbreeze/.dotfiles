@@ -1,5 +1,19 @@
 {
     "custom-styles": {
+        "C": {
+            "String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "String Char": {
+                "selected-text-color": "#f5c2e7",
+                "text-color": "#f5c2e7"
+            },
+            "String Literal Prefix": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            }
+        },
         "Doxygen": {
             "Entities": {
                 "selected-text-color": "#f5c2e7",
