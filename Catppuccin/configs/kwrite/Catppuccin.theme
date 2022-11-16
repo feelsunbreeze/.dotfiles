@@ -45,6 +45,10 @@
                 "selected-text-color": "#a6e3a1",
                 "text-color": "#a6e3a1"
             },
+            "Builtin Function": {
+                "selected-text-color": "#fab387",
+                "text-color": "#fab387"
+            },
             "F-String": {
                 "selected-text-color": "#a6e3a1",
                 "text-color": "#a6e3a1"
