@@ -24,7 +24,7 @@
 - I use [**Arch**](https://archlinux.org/) btw.
 - Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
 - The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.  
-- The IDEs I use include [**CLion**](https://www.jetbrains.com/clion/) and [**Pycharm**](https://www.jetbrains.com/pycharm/).
+- The IDEs I use include [**CLion**](https://www.jetbrains.com/clion/) and [**Pycharm**](https://www.jetbrains.com/pycharm/) and other [**Jetbrains**](https://www.jetbrains.com/) products.  
 - I use [**VSC**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) as well as [**KWrite**](https://apps.kde.org/kwrite/) for text-editing.
 - For Databases, I use [**MariaDB**](https://archlinux.org/packages/extra/x86_64/mariadb/) and use [**DBeaver**](https://archlinux.org/packages/community/x86_64/dbeaver/) and [**DataGrip**](https://www.jetbrains.com/datagrip/) as an IDE.
 - I use [**Rofi**](https://github.com/davatorium/rofi) as my application launcher.
