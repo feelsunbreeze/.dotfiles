@@ -39,6 +39,32 @@
             "String Char": {
                 "text-color": "#f5c2e7"
             }
+        },
+        "Python": {
+            "B-String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "F-String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "Raw B-String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "Raw F-String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "Raw String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            },
+            "String": {
+                "selected-text-color": "#a6e3a1",
+                "text-color": "#a6e3a1"
+            }
         }
     },
     "editor-colors": {
