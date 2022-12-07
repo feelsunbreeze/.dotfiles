@@ -40,5 +40,5 @@
 ## Config
 
 All of the folders go in `~/.config/`.  
-Place the `.zshrc` at `~/` and the theme file in `~/.oh-my-zsh/themes/`.   
+Place the `.zshrc` at `~/`.   
 The neofetch ASCII art must be replaced in the neofetch file.
