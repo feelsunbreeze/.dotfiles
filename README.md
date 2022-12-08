@@ -35,7 +35,7 @@
 - My music player is [**Spotify**](https://spotify.com) with the [_spicetify_](https://spicetify.app/) addon.
 - My messenger app is [**Discord**](https://discord.com) with the [_betterdiscord_](https://betterdiscord.app/) addon.
 - The task manager that I use is [**btop**](https://github.com/aristocratos/btop).
-- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**CAVA**](https://github.com/karlstav/cava), [**lavat**](https://github.com/AngelJumbo/lavat) and [**sssnake**](https://github.com/AngelJumbo/sssnake).
+- Fun tools include [**cowsay**](https://www.npmjs.com/package/cowsay), [**pipes.sh**](https://github.com/pipeseroni/pipes.sh), [**cmatrix**](https://github.com/abishekvashok/cmatrix), [**cbonsai**](https://www.cyberciti.biz/open-source/cbonsai-linux-bonsai-tree-generator-for-cli-lovers-for-fun/), [**CAVA**](https://github.com/karlstav/cava), [**lavat**](https://github.com/AngelJumbo/lavat) and [**sssnake**](https://github.com/AngelJumbo/sssnake) and [**tty-clock**](https://github.com/xorg62/tty-clock).
 
 ## Config
 
