@@ -41,10 +41,14 @@
 
 All of the folders go in `~/.config/`.  
 Place the `.zshrc` at `~/`.   
-The neofetch ASCII art must be replaced in the neofetch file.
-VSCode requires `custom css and js loader extension` and the following css code: 
+The neofetch ASCII art must be replaced in the neofetch file.  
+you will need the `custom css and js loader` extension, you can get it from [here](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
-```.tab.active {
+make a new css file anywhere that fits you
+then copy the following css to the file
+
+```css
+.tab.active {
     border: 4px solid #f5c2e7 !important;
     color: #f5c2e7 !important;
 }
@@ -60,13 +64,24 @@ VSCode requires `custom css and js loader extension` and the following css code:
 .tabs-container{
     height: auto !important;
     padding: 5px !important;
-}```  
-  
-Apply the following to make modifications to vscode:  
-```sudo chown -R {your username} /opt/visual-studio-code-insiders/```  
-then open the vscode settings.json file (you shud be able to open it from ctrl + shift + p and searching for Open User Settings(JSON)) then add the following to the file
+}
+```
 
-```"vscode_custom_css.imports": [
+allow modifications to vscode by running the following command pointing to your vscode installation
+```bash
+sudo chown -R {your username} /opt/visual-studio-code-insiders/
+```
+> replace visual-studio-code-insiders with your vscode installation,
+> you can find your installation dir by doing `whereis code` on your terminal
+
+
+then open the vscode `settings.json` file (you shud be able to open it from `ctrl` + `shift` + `p` and searching for `Open User Settings(JSON)`)
+then add the following to the file
+
+```json
+"vscode_custom_css.imports": [
     "file:///{path_to_file}"
-]```  
-then finally to apply the changes, open the command pallette(ctrl+shift+p) and search for Enable Custom CSS and JS
+],
+```
+
+then finally to apply the changes, open the command pallette(`ctrl`+`shift`+`p`) and search for `Enable Custom CSS and JS`
