@@ -42,8 +42,7 @@
 All of the folders go in `~/.config/`.  
 Place the `.zshrc` at `~/`.   
 The neofetch ASCII art must be replaced in the neofetch file.  
-you will need the `custom css and js loader` extension, you can get it from [here](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
-
+For VSCode, you will need the `custom css and js loader` extension, you can get it from [here](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)  
 make a new css file anywhere that fits you
 then copy the following css to the file
 
