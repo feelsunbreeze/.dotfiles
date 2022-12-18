@@ -1,22 +1,33 @@
 #!/usr/bin/bash
 swaylockd \
 --screenshot \
---indicator \
+--font "Cascadia Code" \
 --clock \
---inside-wrong-color f38ba8  \
---ring-wrong-color 11111b  \
---inside-clear-color a6e3a1 \
---ring-clear-color 11111b \
---inside-ver-color 89b4fa \
---ring-ver-color 11111b \
---text-color  f5c2e7 \
---indicator-radius 80 \
---indicator-thickness 5 \
---effect-blur 10x7 \
---effect-vignette 0.2:0.2 \
---ring-color 11111b \
---key-hl-color f5c2e7 \
---line-color 313244 \
---inside-color 0011111b \
+--indicator \
+--indicator-radius 100 \
+--indicator-thickness 20 \
+--line-color 181825 \
+--ring-color 181825 \
+--inside-color 181825 \
+--key-hl-color cba6f7 \
 --separator-color 00000000 \
---fade-in 0.1 &
+--text-color cdd6f4 \
+--text-caps-lock-color "" \
+--line-ver-color cba6f7 \
+--ring-ver-color cba6f7 \
+--inside-ver-color 181825 \
+--text-ver-color cdd6f4 \
+--ring-wrong-color f38ba8 \
+--text-wrong-color f38ba8 \
+--inside-wrong-color 181825 \
+--inside-clear-color 181825 \
+--text-clear-color cdd6f4 \
+--ring-clear-color cba6f7 \
+--line-clear-color 181825 \
+--line-wrong-color 181825 \
+--bs-hl-color f38ba8 \
+--line-uses-ring false \
+--datestr "%d.%m" \
+--fade-in "0.1" \
+--effect-blur 10x4 &
+
