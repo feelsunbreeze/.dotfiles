@@ -10,7 +10,7 @@
     "margin-bottom":-11,
     //"margin-top":5,
     "modules-left": ["wlr/workspaces"],
-    "modules-right": ["battery","cpu","pulseaudio","clock"],
+    "modules-right": ["battery", "cpu", "pulseaudio","clock"],
     "modules-center": ["custom/dynamic_pill"],
     // Modules configuration
 
