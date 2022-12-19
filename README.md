@@ -19,7 +19,7 @@
 - [**Catppuccin**](https://github.com/catppuccin/catppuccin) color scheme.
 - With the [**Hyprland**](https://hyprland.org/) window manager.
 - I use [**Arch**](https://archlinux.org/) btw.
-- Terminal is [**Alacritty**](https://github.com/alacritty/alacritty).
+- Terminal is [**Kitty**](https://wiki.archlinux.org/title/kitty).
 - The shell is [**Zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.  
 - The IDEs I use include [**CLion**](https://www.jetbrains.com/clion/), [**Pycharm**](https://www.jetbrains.com/pycharm/) and other [**Jetbrains**](https://www.jetbrains.com/) products.  
 - I use [**VSC**](https://code.visualstudio.com/), [**Nvim**](https://neovim.io/) for text-editing.
