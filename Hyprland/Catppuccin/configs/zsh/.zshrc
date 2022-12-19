@@ -2,6 +2,7 @@
 path+=('/home/sunbreeze/.local/bin')
 export ZSH="$HOME/.oh-my-zsh"
 export PATH
+export QT_QPA_PLATFORMTHEME="qt5ct"
 # Theme
 ZSH_THEME=sorin
 # Plugins
@@ -19,6 +20,7 @@ alias pip="pip3"
 alias pipes="pipes.sh"
 alias snakes="sssnake -m autopilot -s 15 -j 10"
 alias lava="lavat -c yellow -R1 -k red"
-alias cmatrix="cmatrix -C magenta"
+alias rain="rusty-rain -C 245,194,231"
 # Run
 pokemon-colorscripts --random --no-title
+
