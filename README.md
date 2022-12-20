@@ -1,21 +1,23 @@
-# <p align = "center">Sunbreeze: The Dot Files</p>
+<div align="justify">
 
-## Contents
+<div align="center">
 
-  - [Rice](#rice)
-  - [Info](#info)
-    - [Programs](#programs)
-    - [Shortcuts](#shortcuts)
-  - [Config](#config)
+```ocaml
+ 🌿 hyprland / lysergic_malfunction / catppuccin 🌿
+```
 
-## Rice
 
-![Desktop](/Hyprland/Catppuccin/screenshots/rice.png)
+# rice
+![rice](./lysergic_malfunction/screenshots/main.png)
+![nvim](./lysergic_malfunction/screenshots/nvim.png)
+![rice](./lysergic_malfunction/screenshots/desktop.png)
 
-## Info
+# info
+ 
+</div>
+</div>
 
-### Programs
-- Original Theme Aurora [Hyprland] - Credits to [flick0](https://github.com/flick0/dotfiles/tree/aurora).
+- Huge Thanks To [**flick0**](https://github.com/flick0/dotfiles) for the original theme.  
 - [**Catppuccin**](https://github.com/catppuccin/catppuccin) color scheme.
 - With the [**Hyprland**](https://hyprland.org/) window manager.
 - I use [**Arch**](https://archlinux.org/) btw.
