@@ -8,9 +8,9 @@
 
 
 # rice
-![rice](./lysergic_malfunction/screenshots/main.png)
-![nvim](./lysergic_malfunction/screenshots/nvim.png)
-![rice](./lysergic_malfunction/screenshots/desktop.png)
+![rice](./screenshots/main.png)
+![nvim](./screenshots/nvim.png)
+![rice](./screenshots/desktop.png)
 
 # info
  
