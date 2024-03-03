@@ -10,8 +10,8 @@
     "margin-bottom":-11,
     //"margin-top":5,
     "modules-left": ["hyprland/workspaces"],
-    "modules-right": ["battery", "cpu", "pulseaudio","clock"],
-    "modules-center": ["custom/dynamic_pill"],
+    "modules-right": ["battery", "cpu", "pulseaudio", "clock"],
+    "modules-center": [],
     // Modules configuration
 
 
@@ -22,16 +22,6 @@
         "escape":true,
         "on-click": "waybar-mpris --send toggle"
     },
-    /////////////////////////////////
-    "keyboard-state": {
-        "numlock": true,
-        "capslock": true,
-        "format": "{name} {icon}",
-        "format-icons": {
-            "locked": "",
-            "unlocked": ""
-        }
-    },
     "hyprland/workspaces": {
         "format": "{icon}",
         "format-active": " {icon} ",
@@ -39,42 +29,6 @@
         // "format-icons":{
         //     "10":"10"
         // }
-    },
-    "sway/mode": {
-        "format": "<span style=\"italic\">{}</span>"
-    },
-    "mpd": {
-        "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ⸨{songPosition}|{queueLength}⸩ {volume}% ",
-        "format-disconnected": "Disconnected ",
-        "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
-        "unknown-tag": "N/A",
-        "interval": 2,
-        "consume-icons": {
-            "on": " "
-        },
-        "random-icons": {
-            "off": "<span color=\"#f53c3c\"></span> ",
-            "on": " "
-        },
-        "repeat-icons": {
-            "on": " "
-        },
-        "single-icons": {
-            "on": "1 "
-        },
-        "state-icons": {
-            "paused": "",
-            "playing": ""
-        },
-        "tooltip-format": "MPD (connected)",
-        "tooltip-format-disconnected": "MPD (disconnected)"
-    },
-    "idle_inhibitor": {
-        "format": "{icon}",
-        "format-icons": {
-            "activated": "",
-            "deactivated": ""
-        }
     },
     "tray": {
         // "icon-size": 21,
@@ -91,16 +45,6 @@
         "interval":1,
         "format": "{icon0} {icon1} {icon2} {icon3}",
         "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"]
-    },
-    "memory": {
-        "format": "{}% "
-    },
-    "temperature": {
-        // "thermal-zone": 2,
-        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
-        "critical-threshold": 80,
-        "format-critical": "{temperatureC}°C",
-        "format": ""
     },
     "backlight": {
         // "device": "acpi_video1",
