@@ -24,7 +24,6 @@
 - terminal is [**kitty**](https://wiki.archlinux.org/title/kitty).
 - the shell is [**zsh**](https://ohmyz.sh/) with [_ohmyzsh_](https://ohmyz.sh/) addon.  
 - i use [**vsc**](https://code.visualstudio.com/) and [**nvim**](https://neovim.io/) for text-editing with the [**nvchad**](https://nvchad.com/) config.  
-- for databases, i use [**mariadb**](https://archlinux.org/packages/extra/x86_64/mariadb/) and [**datagrip**](https://www.jetbrains.com/datagrip/).
 - i use [**wofi**](https://archlinux.org/packages/community/x86_64/wofi/) as my application launcher.
 - my font is [**cascadia code**](https://github.com/microsoft/cascadia-code) and [**jetbrains nerd font**](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf).
 - my file explorer is [**thunar**](https://archlinux.org/packages/extra/x86_64/thunar/).
